@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ParsaBW
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on asp.net
+- 💞️ I’m looking to collaborate on asp.netCore MVC
 - 📫 How to reach me 
 
 <!---
